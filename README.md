@@ -1,2 +1,2 @@
-# Collage-Mosaic-Generator
+# Collage.Mosaic.Generator
 Photographic-Mosaic
